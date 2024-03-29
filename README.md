@@ -1,8 +1,11 @@
 # WebScrapping-Project
 
-This is a webscrapping project, where I have used BeautifulSoup to to fetch data from a wikipedia website containing the top companies in USA with highest revenue
+This is a web scrapping project, where I have used BeautifulSoup to fetch data from a Wikipedia website containing the top companies in the USA with the highest revenue.
+
+/Users/bbkar/Desktop/Screenshot 2024-03-29 at 18.25.25.png
 
 
-<img width="945" alt="image" src="https://github.com/BidhuKar/WebScrapping-Project/assets/26342171/18f95b6f-4a8b-43db-b310-bc90149f4cc5">
+
+
 
 
