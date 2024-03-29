@@ -1,4 +1,4 @@
-# WebScrapping-Project
+# WebScrapping-Project P1
 
 This is a web scrapping project, where I have used BeautifulSoup to fetch data from a Wikipedia website containing the top companies in the USA with the highest revenue.
 
