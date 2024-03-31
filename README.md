@@ -1,4 +1,4 @@
-# WebScrapping-Project P1
+# WebScrapping-Amazon website
 
 This is a web scrapping project, where I have used BeautifulSoup to fetch data from a Amazon website for a product and it's change of prices over the years.
 
@@ -8,7 +8,7 @@ This is a web scrapping project, where I have used BeautifulSoup to fetch data f
 
 
 
-# WebScrapping-Project P1
+# WebScrapping-Wikipedia Website
 
 This is a web scrapping project, where I have used BeautifulSoup to fetch data from a Wikipedia website containing the top companies in the USA with the highest revenue.
 
